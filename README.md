@@ -1,7 +1,7 @@
 <h1 align="left">Hey what's up?</h1>
 
 <p align="left">
-  My name is Candra, and I'm a Front-End Developer from Indonesia.
+  My name is Candra, and I'm a Frontend Engineer from Indonesia.
 </p>
 
 ###
